@@ -1,1 +1,1 @@
-worker: node idk.js
+web: node idk.js
